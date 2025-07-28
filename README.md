@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👩‍🔬 Sireethorn Poomborplab | Analytical Chemistry MSc
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your@email.com)
-
 ---
 
 ## 🧪 About Me
