@@ -44,7 +44,7 @@ I am a master's graduate in Analytical Chemistry with a Doctor of Pharmacy backg
 
 
 ---
-## 📝 Publications 
+## 📝 Publication 
 - (2020) Protective Effect and Mechanism of Fruit Extract of *Aegle marmelos* Against Amyloid-β Toxicity in a Transgenic *Caenorhabditis elegans*  — Natural Product Communications
 ---
 ## 🎓 Education
