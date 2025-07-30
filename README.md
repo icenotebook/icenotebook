@@ -1,4 +1,4 @@
-## (Under construction) Hi there 👋
+## (Under construction)
 <!--
 **icenotebook/icenotebook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,17 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩‍🔬 Sireethorn Poomborplab | Analytical Chemistry MSc
+#  Sireethorn Poomborplab | Analytical Chemistry MSc
 ---
 
-## 🧪 About Me
-A master's graduate in Analytical Chemistry with a Doctor of Pharmacy background. I specialise in developing mass spectrometry-based analytical methods, sample preparation, and data interpretation in biological samples. I am passionate about advancing analytical techniques and applying innovative solutions to complex challenges in biological research, including the development of sustainable products from natural sources.
-
----
-
-## 🎓 Education
-- 🎓 Excellence in Analytical Chemistry program, MSc — *University of Tartu, Estonia* + *Uppsala University, Sweden*  
-- 💊 Doctor of Pharmacy, PharmD — *Srinakharinwirot University, Thailand*
+## Hi there 👋 
+I am a master's graduate in Analytical Chemistry with a Doctor of Pharmacy background. I specialise in developing mass spectrometry-based analytical methods, sample preparation, and data interpretation in biological samples. I am passionate about advancing analytical techniques and applying innovative solutions to complex challenges in biological research, including the development of sustainable products from natural sources.
 
 ---
 
@@ -52,6 +46,10 @@ A master's graduate in Analytical Chemistry with a Doctor of Pharmacy background
 ---
 ## 📝 Publications 
 - (2020) Protective Effect and Mechanism of Fruit Extract of *Aegle marmelos* Against Amyloid-β Toxicity in a Transgenic *Caenorhabditis elegans*  — Natural Product Communications
+---
+## 🎓 Education
+- 🎓 Excellence in Analytical Chemistry program, MSc — *University of Tartu, Estonia* + *Uppsala University, Sweden*  
+- 💊 Doctor of Pharmacy, PharmD — *Srinakharinwirot University, Thailand*
 ---
 ## 🐱 Fun Fact
 
